@@ -1,3 +1,18 @@
 #footer-style {
     text-align: center;
 }
+
+.icon-size {
+    width: 35px;
+    height: 35px;
+    transition: all .5s ease-in-out;
+}
+
+.icon-size:hover {
+    color: red;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: space-evenly;
+}
