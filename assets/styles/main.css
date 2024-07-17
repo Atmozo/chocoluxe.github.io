@@ -1,0 +1,40 @@
+#site-colors {
+    background-color: #1A3636;
+    background-color: hsl(158, 13%, 29%);
+    background-color: #677D6A;
+    background-color: #D6BD98;
+}
+
+html {
+    background-color: whitesmoke;
+}
+
+#footer-style {
+    text-align: center;
+    color: white;
+    font-size: 1.1rem;
+}
+
+.icon-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icon-size {
+    width: 35px;
+    height: 35px;
+    transition: all .5s ease-in-out;
+    color: white;
+}
+
+.icon-size:hover {
+    color: #D6BD98;
+}
+
+.row > .col {
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    top: 5px;
+    left: 20px;
+}
