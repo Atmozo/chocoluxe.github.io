@@ -29,6 +29,7 @@ html {
 
 .icon-size:hover {
     color: #D6BD98;
+    transform: scale(.5,.5);
 }
 
 .row > .col {
