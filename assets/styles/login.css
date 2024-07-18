@@ -10,3 +10,15 @@ body {
     color: #D6BD98;
     transform: scale(1,1);
 }
+
+.login-container {
+    min-height: 100vh;
+}
+
+.username-input {
+    border-radius: 5px; margin-bottom: 20px;
+}
+
+.card-width {
+    width: 35rem;
+}
