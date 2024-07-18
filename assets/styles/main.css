@@ -1,3 +1,11 @@
+
+.change{
+    border-radius: 50px;
+}
+.heroimg{
+    height:400px;
+    width: 100% ;
+
 #site-colors {
     background-color: #1A3636;
     background-color: hsl(158, 13%, 29%);
@@ -13,6 +21,11 @@ html {
     text-align: center;
     color: white;
     font-size: 1.1rem;
+}
+
+  .navbar-brand{
+    padding-left: 40px;
+}
 }
 
 .icon-container {
@@ -38,4 +51,5 @@ html {
     padding: 0px;
     top: 5px;
     left: 20px;
+
 }
