@@ -45,6 +45,15 @@ html {
     transform: scale(.5,.5);
 }
 
+.nav-link {
+    transition: all .8s ease-in-out;
+}
+
+.nav-link:hover {
+    color: #D6BD98;
+    transform: scale(1.1,1.5);
+}
+
 .row > .col {
     position: relative;
     margin: 0px;
