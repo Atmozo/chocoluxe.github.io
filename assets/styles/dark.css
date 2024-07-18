@@ -1,0 +1,9 @@
+.py-2{
+    margin-top: 170px;
+}
+.card1{
+    grid-template-rows:3,1fr ;
+    display: flex;
+    grid-gap: 10px;
+    justify-content: center;
+}
