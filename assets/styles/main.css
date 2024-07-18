@@ -59,6 +59,7 @@ html {
 
 .link-size {
     font-size:1.2rem;
+    padding-left: 10px;
 }
 
 #footer-copyright-alignment {
@@ -69,4 +70,15 @@ html {
     text-align: center;
     color: white;
     font-size: 1.1rem;
+}
+
+.site-logo {
+    text-decoration: none;
+    color: white;
+    transition: all .5 ease-in-out;
+}
+
+.site-logo:hover {
+    text-decoration: none;
+    color: white;
 }
