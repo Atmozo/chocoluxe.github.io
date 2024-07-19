@@ -1,3 +1,43 @@
-body {
-    margin-top: 30px;
+.img-size {
+    position: relative;
+    margin: 0px;
+    border-radius: 100%;
+    padding: 10px;
+    left: 33px;
+    background-color: red;
+    object-fit: contain;
+    width: 190px;
+}
+
+.card-size {
+    width: auto;
+    font-size: 12px
+}
+
+.card-title-text {
+    text-align: center;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.product-description-title {
+    font-weight: 700;
+}
+
+.product-description {
+    font-weight: 500;
+}
+
+.product-price {
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: black;
+    text-align: end;
+}
+
+.center-on-screen {
+    position: relative;
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
