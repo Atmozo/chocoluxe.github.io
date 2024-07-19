@@ -7,3 +7,7 @@
     grid-gap: 10px;
     justify-content: center;
 }
+.card-body{
+    background-color: #707b86;
+}
+
