@@ -10,12 +10,23 @@
 }
 .xlarge{
     border-radius: 100%;
-    max-height: 130px ;
+    max-height: 128px ;
     width: 200px;
     padding: 2px;
     margin-left: 33px;
     background-color: red;
 
+}
+
+.xlarge-2{
+    border-radius: 100%;
+    max-height: 125px ;
+    width: 200px;
+    padding: 2px;
+    margin-left: 33px;
+    position: relative;
+    left: 15px;
+    background-color: red;
 }
 
 .card-size {
