@@ -1,3 +1,7 @@
+body {
+    margin-top: 30px;
+}
+
 .login-btn-style {
     transition: all .5 ease-in-out;
 }
@@ -5,4 +9,16 @@
 .login-btn-style:hover {
     color: #D6BD98;
     transform: scale(1,1);
+}
+
+.login-container {
+    min-height: 100vh;
+}
+
+.username-input {
+    border-radius: 5px; margin-bottom: 20px;
+}
+
+.card-width {
+    width: 35rem;
 }
